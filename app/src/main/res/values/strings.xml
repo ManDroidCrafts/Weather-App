@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weather App</string>
+
+    <string name="splash_text">Weather Matters,\n We\'ve Got the Details</string>
+<!--    <string name="temp_celsius">25&#176;<sup>C</sup></string>-->
+
 </resources>
