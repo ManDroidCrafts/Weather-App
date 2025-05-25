@@ -1,7 +1,22 @@
 <resources>
-    <string name="app_name">Weather App</string>
+    <string name="app_name">Weather</string>
 
     <string name="splash_text">Weather Matters,\n We\'ve Got the Details</string>
-<!--    <string name="temp_celsius">25&#176;<sup>C</sup></string>-->
+    <string name="repo_name">ManDroidCrafts</string>
+    <string name="sea">Sea</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="conditions">Conditions</string>
+    <string name="rain">Rain</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="dummy_date">25 January 2021</string>
+    <string name="dummy_day">Tuesday</string>
+    <string name="dummy_min_temp">Min 00:00 °C</string>
+    <string name="dummy_max_temp">Max 00:00 °C</string>
+    <string name="dummy_temp">25.64 °C</string>
+    <string name="today">Today</string>
+    <string name="sunny">Sunny</string>
+    <string name="delhi">Delhi</string>
 
 </resources>
